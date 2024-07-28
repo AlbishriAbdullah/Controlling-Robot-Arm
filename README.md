@@ -1,6 +1,7 @@
 # Controlling-Robot-Arm
-This repository for the second task in AI track of week 3. which is about controlling the robot arm using Rviz and MoveIt tools.
---> Task requrements.
+This repository for the First task in AI track of week 3. which is about controlling the robot arm using Rviz and MoveIt tools.
+
+Task requrements.
 
 1- Controlling the robot arm by joint_state_publisher
 
@@ -75,3 +76,6 @@ Controlling the robot arm using joint_state_publisher:
 ---------------------------
 Controlling the robot arm by Moveit and kinematics
 ---
+    roslaunch moveit_pkg demo.launch
+
+![Screenshot from 2024-07-28 19-17-48](https://github.com/user-attachments/assets/a410a86d-9023-49db-8a1e-55b91f9d8a81)
